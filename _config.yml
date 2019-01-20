@@ -49,6 +49,12 @@ prism_plugin:
   mode: 'preprocess'
   theme: 'atom-dark'
   line_number: true
+
+# generator-feed
+feed:
+  type: atom
+  path: atom.xml
+  limit: 20
   
 # Home page setting
 # path: Root path for your blogs index page. (default = '')

@@ -18,5 +18,10 @@
     "hexo-renderer-marked": "^0.3.2",
     "hexo-renderer-stylus": "^0.3.3",
     "hexo-server": "^0.3.1"
+  },
+  "devDependencies": {
+    "textlint": "^11.2.1",
+    "textlint-rule-preset-japanese": "^4.0.0",
+    "textlint-rule-spellcheck-tech-word": "^5.0.0"
   }
 }
